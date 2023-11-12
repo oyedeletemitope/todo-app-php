@@ -1,0 +1,11 @@
+{
+    "code today": {
+        "completed": true
+    },
+    "buy": {
+        "completed": false
+    },
+    "call mimi": {
+        "completed": false
+    }
+}
